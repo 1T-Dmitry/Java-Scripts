@@ -1,0 +1,1 @@
+Enter a number N and get a sequence from 1 to N, where numbers divisible by 3 are replaced with "Fizz", numbers divisible by 5 are replaced with "Buzz", and numbers divisible by 15 are replaced with "FizzBuzz".
